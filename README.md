@@ -1,7 +1,7 @@
 # ✨ About me:
 - 😄 Hi, I'm Romans Veveris
 - 🌍 I'm interesed in building mobile and web applications for various tasks
-- 🔭 Currently learning HTML/CSS/JS and React development
+- 🔭 Currently actively learning HTML, CSS, JS and React
 
 ## 💪 Strong sides:
 - 🧠 I take a responsible approach for complex and non-standard problem solving
